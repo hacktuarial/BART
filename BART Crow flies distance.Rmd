@@ -39,6 +39,7 @@ fares <- sqldf("select f.*, s.bayside AS dest_bayside FROM fares f, stops s WHER
 fares$TransBay <- as.numeric(fares$orig_bayside != fares$dest_bayside)
 data <- sqldf("SELECT x.*, y.price, y.TransBay FROM distance x, fares y WHERE x.Orig = y.origin_id AND x.Dest = y.destination_id")
 # export to CSV for further visualization
+<<<<<<< HEAD
 #write.csv(data, 'data/BART/crow flies distance.csv', row.names=F)
 #x <- data %>% mutate(., EuclidMiles = round(EuclidMiles, 2)) %>% dplyr::select(., -Miles2) %>% t
 #for(i in 1:nrow(x)) {
@@ -50,6 +51,10 @@ data <- sqldf("SELECT x.*, y.price, y.TransBay FROM distance x, fares y WHERE x.
 #x[1, ] <- paste("{", x[1, ], sep="")
 #x[7, ] %<>% str_replace(., fixed(","), "},")
 #write.table(t(x), 'data/BART/crow flies distance json.txt', row.names=F, col.names=F, quote=F)
+=======
+write.csv(data, 'data/BART/crow flies distance.csv', row.names=F)
+write.table(toJSON(as.list(data)), 'data/BART/crow flies distance json.txt')
+>>>>>>> c1d5f62f8e82a88d98e03a81f5a4b3509c9c3cbc
 ```
 
 Remove trips starting and beginning at the same station, and only keep the variables we need. We can also remove symmetric trips, since for each pair of stations, the distance and fare are the same whichever direction you travel in.
