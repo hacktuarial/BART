@@ -1,6 +1,0 @@
-source :rubygems
-
-gem 'nokogiri'
-gem 'httparty'
-gem 'activesupport'
-gem 'capybara-mechanize'
