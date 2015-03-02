@@ -1,0 +1,3 @@
+stations = ['Millbrae', 'SFIA', 'San Bruno', 'South SF', 'Colma',
+            'Daly City', 'Civic Center', 'Powell', 'Montgomery',
+            'Embarcadero'

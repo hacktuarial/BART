@@ -1,0 +1,86 @@
+Arriving,Line,Peak_Fare,Off_Peak_Fare,Reduced_Fare,Miles,Time
+Addison Road-Seat Pleasant,B,3.65,2.75,1.80,8.1,23
+Anacostia,G,2.20,1.80,1.10,3.39,11
+Archives-Navy Memorial-Penn Quarter,"G,Y",2.10,1.70,1.05,0.56,8
+Arlington Cemetery,B,2.10,1.70,1.05,2.88,9
+Ballston-MU,O,2.75,2.05,1.35,5.03,15
+Benning Road,B,2.95,2.05,1.45,5.66,17
+Bethesda,R,3.35,2.65,1.65,7.14,17
+Braddock Road,"B,Y",3.40,2.65,1.70,7.2,23
+Branch Ave,G,3.90,2.75,1.95,9.02,24
+Brookland-CUA,R,2.25,1.80,1.10,3.47,9
+Capitol Heights,B,3.35,2.65,1.65,7.12,20
+Capitol South,"B,O",2.10,1.70,1.05,1.82,9
+Cheverly,O,3.35,2.65,1.65,7.11,21
+Clarendon,O,2.40,1.95,1.20,4.01,11
+Cleveland Park,R,2.15,1.70,1.05,3.1,8
+College Park-U of MD,G,3.90,2.75,1.95,9.11,24
+Columbia Heights,"G,Y",2.10,1.70,1.05,2.46,14
+Congress Heights,G,2.60,2.05,1.30,4.66,14
+Court House,O,2.25,1.80,1.10,3.52,9
+Crystal City,"B,Y",2.40,1.90,1.20,3.94,15
+Deanwood,O,3.05,2.05,1.50,5.99,19
+Dunn Loring-Merrifield,O,4.60,3.50,2.30,11.54,26
+Dupont Circle,R,2.10,1.70,1.05,1.22,4
+East Falls Church,O,3.45,2.70,1.70,7.41,19
+Eastern Market,"B,O",2.10,1.70,1.05,2.29,11
+Eisenhower Avenue,Y,3.75,2.75,1.85,8.47,27
+Farragut North,R,2.10,1.70,1.05,0.74,2
+Farragut West,"B,O",2.10,1.70,1.05,0.77,2
+Federal Center SW,"B,O",2.10,1.70,1.05,1.32,7
+Federal Triangle,"B,O",2.10,1.70,1.05,0.31,1
+Foggy Bottom-GWU,"B,O",2.10,1.70,1.05,1.28,4
+Forest Glen,R,3.95,2.75,1.95,9.19,21
+Fort Totten,"G,Y,R",2.60,2.05,1.30,4.62,12
+Franconia-Springfield,B,5.35,3.50,2.65,14.16,35
+Friendship Heights,R,2.90,2.05,1.45,5.46,14
+Gallery Pl-Chinatown,"G,Y,R",2.10,1.70,1.05,0.29,1
+Georgia Ave-Petworth,"G,Y",2.15,1.70,1.05,3.09,17
+Glenmont,R,4.85,3.50,2.40,12.52,28
+Greenbelt,G,4.60,3.50,2.30,11.49,27
+Grosvenor-Strathmore,R,4.25,3.30,2.10,10.33,22
+Huntington,Y,3.90,2.75,1.95,8.98,28
+Judiciary Square,R,2.10,1.70,1.05,0.65,2
+King St-Old Town,"B,Y",3.55,2.75,1.75,7.83,25
+L'Enfant Plaza,"B,O,G,Y",2.10,1.70,1.05,1.09,5
+Landover,O,3.85,2.75,1.90,8.84,24
+Largo Town Center,B,4.40,3.45,2.20,10.86,29
+McPherson Square,"B,O",2.10,1.70,1.05,0.41,1
+Medical Center,R,3.65,2.75,1.80,8.15,19
+Minnesota Ave,O,2.80,2.05,1.40,5.21,17
+Morgan Boulevard,B,4.05,2.75,2.00,9.59,26
+Mt Vernon Sq 7th St-Convention Center,"G,Y",2.10,1.70,1.05,0.76,9
+Navy Yard-Ballpark,G,2.10,1.70,1.05,2.27,9
+Naylor Road,G,3.10,2.05,1.55,6.25,19
+New Carrollton,O,4.25,3.30,2.10,10.23,27
+NoMa-Gallaudet (New York Ave),R,2.10,1.70,1.05,1.72,5
+Pentagon,"B,Y",2.10,1.70,1.05,2.98,12
+Pentagon City,"B,Y",2.30,1.85,1.15,3.57,13
+Potomac Ave,"B,O",2.10,1.70,1.05,2.9,13
+Prince George's Plaza,G,3.40,2.70,1.70,7.29,21
+Rhode Island Ave-Brentwood,R,2.10,1.70,1.05,2.71,7
+Rockville,R,5.50,3.50,2.75,14.78,30
+Ronald Reagan Washington National Airport,"B,Y",2.50,2.00,1.25,4.3,18
+Rosslyn,"B,O",2.10,1.70,1.05,1.36,7
+Shady Grove,R,5.75,3.50,2.85,17.44,34
+Shaw-Howard U,"G,Y",2.10,1.70,1.05,2.43,10
+Silver Spring,R,3.50,2.75,1.75,7.6,18
+Smithsonian,"B,O",2.10,1.70,1.05,0.68,3
+Southern Avenue,G,2.90,2.05,1.45,5.55,16
+Stadium-Armory,"B,O",2.25,1.80,1.10,3.4,14
+Suitland,G,3.50,2.75,1.75,7.57,21
+Takoma,R,3.15,2.05,1.55,6.29,15
+Tenleytown-AU,R,2.65,2.05,1.30,4.7,12
+Twinbrook,R,4.95,3.50,2.45,12.81,27
+U Street/African-Amer Civil War Memorial/Cardozo,"G,Y",2.10,1.70,1.05,1.55,12
+Union Station,R,2.10,1.70,1.05,1.22,4
+Van Dorn Street,B,4.40,3.45,2.20,10.83,30
+Van Ness-UDC,R,2.35,1.85,1.15,3.72,10
+Vienna/Fairfax-GMU,O,5.30,3.50,2.65,14.02,30
+Virginia Square-GMU,O,2.55,2.05,1.25,4.47,13
+Waterfront,G,2.10,1.70,1.05,1.8,7
+West Falls Church-VT/UVA,O,3.95,2.75,1.95,9.29,22
+West Hyattsville,G,3.10,2.05,1.55,6.15,18
+Wheaton,R,4.40,3.40,2.20,10.79,25
+White Flint,R,4.65,3.50,2.30,11.72,24
+Woodley Park-Zoo/Adams Morgan,R,2.10,1.70,1.05,2.39,6

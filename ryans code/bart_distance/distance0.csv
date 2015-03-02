@@ -1,0 +1,826 @@
+Station Pair ID,From Name,From Address,To Name,To Address,Distance in Miles
+0,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",12.55
+1,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",0.35
+2,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",13.68
+3,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",4.04
+4,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",16.29
+5,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",12.81
+6,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",17.67
+7,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",11.26
+8,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",6.34
+9,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Colma Station","365 D Street, Colma, CA 94014",19.27
+10,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Concord Station","1451 Oakland Avenue, Concord, CA 94520",21.92
+11,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",18.34
+12,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",5.23
+13,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",27.62
+14,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",10.57
+15,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",9.26
+16,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Embarcadero Station","298 Market Street, San Francisco, CA 94111",10.52
+17,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Fremont Station","2000 BART Way, Fremont, CA 94536",27.39
+18,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",4.04
+19,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",15.43
+20,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Hayward Station","699 'B' Street, Hayward, CA 94541",14.9
+21,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",12.84
+22,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",0.66
+23,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","MacArthur Station","555 40th Street, Oakland, CA 94609",2.38
+24,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",24.02
+25,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",10.99
+26,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",7.55
+27,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",24.38
+28,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Orinda Station","11 Camino Pablo, Orinda, CA 94563",9.13
+29,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",28.87
+30,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",17.71
+31,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Powell St. Station","899 Market Street, San Francisco, CA 94102",10.98
+32,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",12.12
+33,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Rockridge Station","5660 College Avenue, Oakland, CA 94618",3.9
+34,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",22.59
+35,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",23.49
+36,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",9.47
+37,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",18.25
+38,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",21.92
+39,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Union City Station","10 Union Square, Union City, CA 94587",21.63
+40,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",16.05
+41,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",26.43
+42,"12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612","West Oakland Station","1451 7th Street, Oakland, CA 94607",1.9
+43,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",12.41
+44,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",11.88
+45,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",0.89
+46,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",12.3
+47,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",3.97
+48,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",24.34
+49,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",26.55
+50,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",1.37
+51,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",17.94
+52,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Colma Station","365 D Street, Colma, CA 94014",6.95
+53,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Concord Station","1451 Oakland Avenue, Concord, CA 94520",30.68
+54,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",6.01
+55,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",13.99
+56,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",36.5
+57,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",16.53
+58,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",15.21
+59,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Embarcadero Station","298 Market Street, San Francisco, CA 94111",2.59
+60,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Fremont Station","2000 BART Way, Fremont, CA 94536",38.99
+61,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",15.65
+62,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",2.84
+63,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Hayward Station","699 'B' Street, Hayward, CA 94541",26.51
+64,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",21.6
+65,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",13.33
+66,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","MacArthur Station","555 40th Street, Oakland, CA 94609",10.94
+67,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",14.08
+68,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",3.19
+69,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",13.5
+70,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",33.15
+71,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Orinda Station","11 Camino Pablo, Orinda, CA 94563",17.89
+72,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",37.63
+73,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",26.47
+74,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Powell St. Station","899 Market Street, San Francisco, CA 94102",1.81
+75,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",18.08
+76,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Rockridge Station","5660 College Avenue, Oakland, CA 94618",12.66
+77,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",12.65
+78,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",13.55
+79,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",21.08
+80,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",29.85
+81,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",11.98
+82,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Union City Station","10 Union Square, Union City, CA 94587",33.23
+83,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",24.81
+84,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",35.31
+85,"16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110","West Oakland Station","1451 7th Street, Oakland, CA 94607",10.77
+86,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",0.36
+87,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",12.08
+88,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",13.22
+89,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",3.57
+90,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",15.83
+91,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",13.16
+92,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",16.27
+93,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",10.79
+94,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",6.7
+95,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Colma Station","365 D Street, Colma, CA 94014",18.8
+96,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Concord Station","1451 Oakland Avenue, Concord, CA 94520",21.46
+97,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",17.87
+98,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",4.76
+99,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",26.23
+100,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",10.1
+101,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",8.79
+102,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Embarcadero Station","298 Market Street, San Francisco, CA 94111",10.05
+103,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Fremont Station","2000 BART Way, Fremont, CA 94536",27.74
+104,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",4.4
+105,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",14.96
+106,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Hayward Station","699 'B' Street, Hayward, CA 94541",15.26
+107,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",12.37
+108,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",1.01
+109,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","MacArthur Station","555 40th Street, Oakland, CA 94609",1.92
+110,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",23.55
+111,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",10.52
+112,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",7.08
+113,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",23.92
+114,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Orinda Station","11 Camino Pablo, Orinda, CA 94563",8.67
+115,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",28.4
+116,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",17.25
+117,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Powell St. Station","899 Market Street, San Francisco, CA 94102",10.51
+118,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",11.66
+119,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Rockridge Station","5660 College Avenue, Oakland, CA 94618",2.79
+120,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",22.12
+121,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",23.02
+122,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",9.83
+123,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",18.6
+124,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",21.45
+125,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Union City Station","10 Union Square, Union City, CA 94587",21.98
+126,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",15.58
+127,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",25.04
+128,"19th St. Oakland Station","1900 Broadway, Oakland, CA 94612","West Oakland Station","1451 7th Street, Oakland, CA 94607",2.11
+129,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",13.29
+130,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",0.89
+131,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",12.76
+132,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",13.19
+133,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",3.08
+134,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",25.23
+135,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",27.44
+136,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",2.43
+137,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",18.83
+138,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Colma Station","365 D Street, Colma, CA 94014",6.06
+139,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Concord Station","1451 Oakland Avenue, Concord, CA 94520",31.57
+140,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",5.13
+141,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",14.88
+142,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",37.39
+143,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",17.41
+144,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",16.1
+145,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Embarcadero Station","298 Market Street, San Francisco, CA 94111",3.48
+146,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Fremont Station","2000 BART Way, Fremont, CA 94536",43.19
+147,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",16.53
+148,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",1.96
+149,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Hayward Station","699 'B' Street, Hayward, CA 94541",27.39
+150,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",22.49
+151,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",14.21
+152,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","MacArthur Station","555 40th Street, Oakland, CA 94609",11.82
+153,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",12.37
+154,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",4.07
+155,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",14.39
+156,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",34.03
+157,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Orinda Station","11 Camino Pablo, Orinda, CA 94563",18.78
+158,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",38.52
+159,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",27.36
+160,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Powell St. Station","899 Market Street, San Francisco, CA 94102",2.87
+161,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",18.97
+162,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Rockridge Station","5660 College Avenue, Oakland, CA 94618",13.55
+163,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",10.94
+164,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",11.84
+165,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",21.96
+166,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",34.05
+167,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",8.04
+168,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Union City Station","10 Union Square, Union City, CA 94587",37.43
+169,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",25.7
+170,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",36.2
+171,"24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110","West Oakland Station","1451 7th Street, Oakland, CA 94607",11.66
+172,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",3.94
+173,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",12.67
+174,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",3.41
+175,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",13.81
+176,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",16.42
+177,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",15.78
+178,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",17.99
+179,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",11.38
+180,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",10.11
+181,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Colma Station","365 D Street, Colma, CA 94014",19.39
+182,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Concord Station","1451 Oakland Avenue, Concord, CA 94520",20.2
+183,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",18.46
+184,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",1.67
+185,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",27.94
+186,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",7.74
+187,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",6.43
+188,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Embarcadero Station","298 Market Street, San Francisco, CA 94111",10.64
+189,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Fremont Station","2000 BART Way, Fremont, CA 94536",31.16
+190,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",7.81
+191,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",15.55
+192,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Hayward Station","699 'B' Street, Hayward, CA 94541",18.42
+193,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",11.11
+194,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",4.86
+195,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","MacArthur Station","555 40th Street, Oakland, CA 94609",1.87
+196,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",24.14
+197,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",11.12
+198,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",2.35
+199,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",22.66
+200,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Orinda Station","11 Camino Pablo, Orinda, CA 94563",7.41
+201,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",27.14
+202,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",15.99
+203,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Powell St. Station","899 Market Street, San Francisco, CA 94102",11.1
+204,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",9.29
+205,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Rockridge Station","5660 College Avenue, Oakland, CA 94618",1.94
+206,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",22.71
+207,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",23.61
+208,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",13.24
+209,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",22.02
+210,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",22.04
+211,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Union City Station","10 Union Square, Union City, CA 94587",25.4
+212,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",14.32
+213,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",26.75
+214,"Ashby Station","3100 Adeline Street, Berkeley, CA 94703","West Oakland Station","1451 7th Street, Oakland, CA 94607",5.73
+215,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",16.19
+216,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",3.79
+217,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",15.66
+218,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",2.91
+219,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",16.09
+220,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",28.13
+221,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",30.34
+222,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",6.09
+223,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",21.73
+224,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Colma Station","365 D Street, Colma, CA 94014",3.06
+225,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Concord Station","1451 Oakland Avenue, Concord, CA 94520",34.47
+226,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",1.74
+227,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",17.78
+228,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",40.29
+229,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",20.31
+230,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",19.0
+231,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Embarcadero Station","298 Market Street, San Francisco, CA 94111",7.64
+232,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Fremont Station","2000 BART Way, Fremont, CA 94536",43.79
+233,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",19.43
+234,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",1.67
+235,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Hayward Station","699 'B' Street, Hayward, CA 94541",30.29
+236,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",25.39
+237,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",17.11
+238,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","MacArthur Station","555 40th Street, Oakland, CA 94609",14.72
+239,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",12.97
+240,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",6.97
+241,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",17.29
+242,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",36.93
+243,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Orinda Station","11 Camino Pablo, Orinda, CA 94563",21.68
+244,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",41.42
+245,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",30.26
+246,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Powell St. Station","899 Market Street, San Francisco, CA 94102",6.51
+247,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",21.87
+248,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Rockridge Station","5660 College Avenue, Oakland, CA 94618",16.45
+249,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",9.41
+250,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",11.94
+251,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",24.86
+252,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",34.65
+253,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",5.03
+254,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Union City Station","10 Union Square, Union City, CA 94587",38.03
+255,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",28.6
+256,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",39.1
+257,"Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112","West Oakland Station","1451 7th Street, Oakland, CA 94607",14.56
+258,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",12.91
+259,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",24.7
+260,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",13.94
+261,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",25.84
+262,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",15.92
+263,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",28.45
+264,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",4.5
+265,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",23.41
+266,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",7.48
+267,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Colma Station","365 D Street, Colma, CA 94014",33.25
+268,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Concord Station","1451 Oakland Avenue, Concord, CA 94520",29.91
+269,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",30.49
+270,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",17.11
+271,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",14.46
+272,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",22.56
+273,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",21.24
+274,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Embarcadero Station","298 Market Street, San Francisco, CA 94111",22.67
+275,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Fremont Station","2000 BART Way, Fremont, CA 94536",16.98
+276,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",10.29
+277,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",27.58
+278,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Hayward Station","699 'B' Street, Hayward, CA 94541",3.5
+279,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",20.83
+280,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",12.44
+281,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","MacArthur Station","555 40th Street, Oakland, CA 94609",14.68
+282,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",24.36
+283,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",23.15
+284,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",19.54
+285,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",32.38
+286,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Orinda Station","11 Camino Pablo, Orinda, CA 94563",17.13
+287,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",36.86
+288,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",25.7
+289,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Powell St. Station","899 Market Street, San Francisco, CA 94102",23.14
+290,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",24.11
+291,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Rockridge Station","5660 College Avenue, Oakland, CA 94618",14.63
+292,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",28.16
+293,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",28.77
+294,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",3.32
+295,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",7.84
+296,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",30.27
+297,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Union City Station","10 Union Square, Union City, CA 94587",11.21
+298,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",24.04
+299,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",13.27
+300,"Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578","West Oakland Station","1451 7th Street, Oakland, CA 94607",14.97
+301,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",14.85
+302,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",26.5
+303,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",17.11
+304,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",27.64
+305,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",17.88
+306,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",30.25
+307,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",4.07
+308,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",25.21
+309,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",9.42
+310,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Colma Station","365 D Street, Colma, CA 94014",33.22
+311,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Concord Station","1451 Oakland Avenue, Concord, CA 94520",31.96
+312,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",32.29
+313,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",19.07
+314,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",10.44
+315,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",24.52
+316,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",23.21
+317,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Embarcadero Station","298 Market Street, San Francisco, CA 94111",24.47
+318,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Fremont Station","2000 BART Way, Fremont, CA 94536",19.44
+319,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",12.23
+320,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",29.38
+321,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Hayward Station","699 'B' Street, Hayward, CA 94541",1.91
+322,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",22.8
+323,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",14.37
+324,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","MacArthur Station","555 40th Street, Oakland, CA 94609",16.65
+325,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",26.83
+326,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",24.94
+327,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",21.5
+328,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",34.42
+329,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Orinda Station","11 Camino Pablo, Orinda, CA 94563",19.09
+330,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",38.91
+331,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",27.75
+332,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Powell St. Station","899 Market Street, San Francisco, CA 94102",24.93
+333,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",26.08
+334,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Rockridge Station","5660 College Avenue, Oakland, CA 94618",16.6
+335,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",30.63
+336,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",31.23
+337,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",7.54
+338,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",4.78
+339,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",32.73
+340,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Union City Station","10 Union Square, Union City, CA 94587",13.68
+341,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",26.07
+342,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",9.25
+343,"Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546","West Oakland Station","1451 7th Street, Oakland, CA 94607",16.91
+344,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",11.3
+345,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",1.35
+346,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",10.77
+347,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",2.34
+348,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",11.19
+349,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",6.85
+350,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",23.23
+351,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",25.44
+352,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",16.83
+353,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Colma Station","365 D Street, Colma, CA 94014",9.83
+354,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Concord Station","1451 Oakland Avenue, Concord, CA 94520",29.57
+355,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",8.9
+356,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",12.89
+357,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",35.39
+358,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",15.42
+359,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",14.1
+360,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Embarcadero Station","298 Market Street, San Francisco, CA 94111",1.18
+361,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Fremont Station","2000 BART Way, Fremont, CA 94536",37.88
+362,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",14.54
+363,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",5.99
+364,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Hayward Station","699 'B' Street, Hayward, CA 94541",25.4
+365,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",20.49
+366,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",12.22
+367,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","MacArthur Station","555 40th Street, Oakland, CA 94609",9.83
+368,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",14.13
+369,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",0.85
+370,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",12.4
+371,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",32.04
+372,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Orinda Station","11 Camino Pablo, Orinda, CA 94563",16.78
+373,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",36.52
+374,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",25.36
+375,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Powell St. Station","899 Market Street, San Francisco, CA 94102",0.44
+376,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",16.97
+377,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Rockridge Station","5660 College Avenue, Oakland, CA 94618",11.55
+378,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",12.7
+379,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",13.6
+380,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",19.97
+381,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",28.74
+382,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",12.03
+383,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Union City Station","10 Union Square, Union City, CA 94587",32.12
+384,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",23.7
+385,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",34.2
+386,"Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102","West Oakland Station","1451 7th Street, Oakland, CA 94607",9.66
+387,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",6.01
+388,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",17.8
+389,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",7.04
+390,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",18.94
+391,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",9.95
+392,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",21.55
+393,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",8.35
+394,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",10.6
+395,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",16.51
+396,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Colma Station","365 D Street, Colma, CA 94014",24.52
+397,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Concord Station","1451 Oakland Avenue, Concord, CA 94520",27.83
+398,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",23.59
+399,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",11.13
+400,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",20.55
+401,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",16.61
+402,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",15.3
+403,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Embarcadero Station","298 Market Street, San Francisco, CA 94111",15.77
+404,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Fremont Station","2000 BART Way, Fremont, CA 94536",22.93
+405,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",2.2
+406,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",20.68
+407,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Hayward Station","699 'B' Street, Hayward, CA 94541",10.44
+408,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",18.75
+409,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",5.54
+410,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","MacArthur Station","555 40th Street, Oakland, CA 94609",8.29
+411,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",30.32
+412,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",16.24
+413,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",13.59
+414,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",30.29
+415,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Orinda Station","11 Camino Pablo, Orinda, CA 94563",15.04
+416,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",34.78
+417,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",23.62
+418,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Powell St. Station","899 Market Street, San Francisco, CA 94102",16.23
+419,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",18.17
+420,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Rockridge Station","5660 College Avenue, Oakland, CA 94618",9.81
+421,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",27.84
+422,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",28.74
+423,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",3.11
+424,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",13.79
+425,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",27.17
+426,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Union City Station","10 Union Square, Union City, CA 94587",17.17
+427,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",21.95
+428,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",19.36
+429,"ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621","West Oakland Station","1451 7th Street, Oakland, CA 94607",8.07
+430,"Colma Station","365 D Street, Colma, CA 94014","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",19.7
+431,"Colma Station","365 D Street, Colma, CA 94014","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",7.3
+432,"Colma Station","365 D Street, Colma, CA 94014","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",19.17
+433,"Colma Station","365 D Street, Colma, CA 94014","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",6.41
+434,"Colma Station","365 D Street, Colma, CA 94014","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",19.6
+435,"Colma Station","365 D Street, Colma, CA 94014","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",3.52
+436,"Colma Station","365 D Street, Colma, CA 94014","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",33.24
+437,"Colma Station","365 D Street, Colma, CA 94014","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",33.84
+438,"Colma Station","365 D Street, Colma, CA 94014","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",9.6
+439,"Colma Station","365 D Street, Colma, CA 94014","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",25.24
+440,"Colma Station","365 D Street, Colma, CA 94014","Concord Station","1451 Oakland Avenue, Concord, CA 94520",37.98
+441,"Colma Station","365 D Street, Colma, CA 94014","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",1.91
+442,"Colma Station","365 D Street, Colma, CA 94014","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",21.29
+443,"Colma Station","365 D Street, Colma, CA 94014","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",43.8
+444,"Colma Station","365 D Street, Colma, CA 94014","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",23.82
+445,"Colma Station","365 D Street, Colma, CA 94014","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",22.5
+446,"Colma Station","365 D Street, Colma, CA 94014","Embarcadero Station","298 Market Street, San Francisco, CA 94111",11.15
+447,"Colma Station","365 D Street, Colma, CA 94014","Fremont Station","2000 BART Way, Fremont, CA 94536",40.49
+448,"Colma Station","365 D Street, Colma, CA 94014","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",22.94
+449,"Colma Station","365 D Street, Colma, CA 94014","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",5.18
+450,"Colma Station","365 D Street, Colma, CA 94014","Hayward Station","699 'B' Street, Hayward, CA 94541",30.79
+451,"Colma Station","365 D Street, Colma, CA 94014","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",28.89
+452,"Colma Station","365 D Street, Colma, CA 94014","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",20.62
+453,"Colma Station","365 D Street, Colma, CA 94014","MacArthur Station","555 40th Street, Oakland, CA 94609",18.23
+454,"Colma Station","365 D Street, Colma, CA 94014","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",9.67
+455,"Colma Station","365 D Street, Colma, CA 94014","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",10.48
+456,"Colma Station","365 D Street, Colma, CA 94014","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",20.8
+457,"Colma Station","365 D Street, Colma, CA 94014","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",40.44
+458,"Colma Station","365 D Street, Colma, CA 94014","Orinda Station","11 Camino Pablo, Orinda, CA 94563",25.19
+459,"Colma Station","365 D Street, Colma, CA 94014","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",44.92
+460,"Colma Station","365 D Street, Colma, CA 94014","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",33.77
+461,"Colma Station","365 D Street, Colma, CA 94014","Powell St. Station","899 Market Street, San Francisco, CA 94102",10.01
+462,"Colma Station","365 D Street, Colma, CA 94014","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",25.37
+463,"Colma Station","365 D Street, Colma, CA 94014","Rockridge Station","5660 College Avenue, Oakland, CA 94618",19.96
+464,"Colma Station","365 D Street, Colma, CA 94014","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",4.78
+465,"Colma Station","365 D Street, Colma, CA 94014","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",9.04
+466,"Colma Station","365 D Street, Colma, CA 94014","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",28.37
+467,"Colma Station","365 D Street, Colma, CA 94014","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",31.35
+468,"Colma Station","365 D Street, Colma, CA 94014","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",2.22
+469,"Colma Station","365 D Street, Colma, CA 94014","Union City Station","10 Union Square, Union City, CA 94587",34.73
+470,"Colma Station","365 D Street, Colma, CA 94014","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",32.1
+471,"Colma Station","365 D Street, Colma, CA 94014","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",42.6
+472,"Colma Station","365 D Street, Colma, CA 94014","West Oakland Station","1451 7th Street, Oakland, CA 94607",18.07
+473,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",21.86
+474,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",30.59
+475,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",21.33
+476,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",31.73
+477,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",20.09
+478,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",34.34
+479,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",35.26
+480,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",31.49
+481,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",29.3
+482,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",28.03
+483,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Colma Station","365 D Street, Colma, CA 94014",37.31
+484,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",36.38
+485,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",21.06
+486,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",24.35
+487,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",25.33
+488,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",27.69
+489,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Embarcadero Station","298 Market Street, San Francisco, CA 94111",28.56
+490,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Fremont Station","2000 BART Way, Fremont, CA 94536",39.91
+491,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",25.73
+492,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",33.47
+493,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Hayward Station","699 'B' Street, Hayward, CA 94541",33.1
+494,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",9.69
+495,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",22.78
+496,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","MacArthur Station","555 40th Street, Oakland, CA 94609",19.73
+497,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",42.06
+498,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",29.03
+499,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",25.59
+500,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",2.83
+501,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Orinda Station","11 Camino Pablo, Orinda, CA 94563",13.63
+502,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",7.81
+503,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",4.89
+504,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Powell St. Station","899 Market Street, San Francisco, CA 94102",29.02
+505,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",25.64
+506,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Rockridge Station","5660 College Avenue, Oakland, CA 94618",18.12
+507,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",40.63
+508,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",41.53
+509,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",31.16
+510,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",41.49
+511,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",39.96
+512,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Union City Station","10 Union Square, Union City, CA 94587",41.31
+513,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",6.37
+514,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",22.9
+515,"Concord Station","1451 Oakland Avenue, Concord, CA 94520","West Oakland Station","1451 7th Street, Oakland, CA 94607",22.84
+516,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",18.23
+517,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",5.83
+518,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",17.7
+519,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",4.94
+520,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",18.12
+521,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",2.05
+522,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",30.16
+523,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",32.37
+524,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",8.13
+525,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",23.76
+526,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Colma Station","365 D Street, Colma, CA 94014",2.02
+527,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Concord Station","1451 Oakland Avenue, Concord, CA 94520",36.5
+528,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",19.82
+529,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",42.32
+530,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",22.35
+531,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",21.03
+532,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Embarcadero Station","298 Market Street, San Francisco, CA 94111",9.67
+533,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Fremont Station","2000 BART Way, Fremont, CA 94536",41.76
+534,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",21.47
+535,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",3.7
+536,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Hayward Station","699 'B' Street, Hayward, CA 94541",32.05
+537,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",27.42
+538,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",19.15
+539,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","MacArthur Station","555 40th Street, Oakland, CA 94609",16.76
+540,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",10.94
+541,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",9.01
+542,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",19.33
+543,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",38.97
+544,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Orinda Station","11 Camino Pablo, Orinda, CA 94563",23.71
+545,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",43.45
+546,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",32.29
+547,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Powell St. Station","899 Market Street, San Francisco, CA 94102",8.54
+548,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",23.9
+549,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Rockridge Station","5660 College Avenue, Oakland, CA 94618",18.48
+550,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",7.77
+551,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",10.31
+552,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",26.9
+553,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",32.62
+554,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",3.99
+555,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Union City Station","10 Union Square, Union City, CA 94587",35.99
+556,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",30.63
+557,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",41.13
+558,"Daly City Station","500 John Daly Blvd., Daly City, CA 94014","West Oakland Station","1451 7th Street, Oakland, CA 94607",16.59
+559,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",5.15
+560,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",13.56
+561,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",4.62
+562,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",14.7
+563,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",1.2
+564,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",17.31
+565,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",16.99
+566,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",19.2
+567,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",12.27
+568,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",11.32
+569,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Colma Station","365 D Street, Colma, CA 94014",20.28
+570,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Concord Station","1451 Oakland Avenue, Concord, CA 94520",20.98
+571,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",19.35
+572,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",29.15
+573,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",6.78
+574,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",3.73
+575,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Embarcadero Station","298 Market Street, San Francisco, CA 94111",11.53
+576,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Fremont Station","2000 BART Way, Fremont, CA 94536",32.37
+577,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",9.02
+578,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",16.44
+579,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Hayward Station","699 'B' Street, Hayward, CA 94541",19.63
+580,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",11.9
+581,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",6.07
+582,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","MacArthur Station","555 40th Street, Oakland, CA 94609",3.07
+583,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",25.03
+584,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",12.0
+585,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",1.38
+586,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",23.45
+587,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Orinda Station","11 Camino Pablo, Orinda, CA 94563",8.19
+588,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",27.93
+589,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",16.77
+590,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Powell St. Station","899 Market Street, San Francisco, CA 94102",11.99
+591,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",8.33
+592,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Rockridge Station","5660 College Avenue, Oakland, CA 94618",2.73
+593,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",23.6
+594,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",24.5
+595,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",14.45
+596,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",23.23
+597,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",22.93
+598,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Union City Station","10 Union Square, Union City, CA 94587",26.61
+599,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",15.11
+600,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",27.96
+601,"Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704","West Oakland Station","1451 7th Street, Oakland, CA 94607",6.59
+602,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",25.1
+603,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",36.76
+604,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",27.36
+605,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",37.89
+606,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",28.14
+607,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",40.5
+608,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",14.33
+609,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",10.56
+610,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",35.47
+611,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",19.68
+612,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Colma Station","365 D Street, Colma, CA 94014",43.48
+613,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Concord Station","1451 Oakland Avenue, Concord, CA 94520",24.53
+614,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",42.55
+615,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",29.33
+616,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",34.78
+617,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",33.46
+618,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Embarcadero Station","298 Market Street, San Francisco, CA 94111",34.73
+619,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Fremont Station","2000 BART Way, Fremont, CA 94536",18.37
+620,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",22.49
+621,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",39.64
+622,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Hayward Station","699 'B' Street, Hayward, CA 94541",12.17
+623,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",20.93
+624,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",24.63
+625,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","MacArthur Station","555 40th Street, Oakland, CA 94609",26.9
+626,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",37.09
+627,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",35.2
+628,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",31.76
+629,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",26.99
+630,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Orinda Station","11 Camino Pablo, Orinda, CA 94563",24.87
+631,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",31.47
+632,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",20.32
+633,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Powell St. Station","899 Market Street, San Francisco, CA 94102",35.19
+634,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",36.33
+635,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Rockridge Station","5660 College Avenue, Oakland, CA 94618",26.85
+636,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",40.88
+637,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",41.49
+638,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",17.8
+639,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",20.56
+640,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",42.99
+641,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Union City Station","10 Union Square, Union City, CA 94587",19.77
+642,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",18.64
+643,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",3.25
+644,"DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588","West Oakland Station","1451 7th Street, Oakland, CA 94607",27.16
+645,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",10.27
+646,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",16.24
+647,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",9.74
+648,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",17.38
+649,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",7.55
+650,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",19.99
+651,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",22.2
+652,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",24.41
+653,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",14.96
+654,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",16.6
+655,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Colma Station","365 D Street, Colma, CA 94014",22.97
+656,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Concord Station","1451 Oakland Avenue, Concord, CA 94520",24.71
+657,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",22.03
+658,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",6.63
+659,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",34.36
+660,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",2.32
+661,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Embarcadero Station","298 Market Street, San Francisco, CA 94111",14.21
+662,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Fremont Station","2000 BART Way, Fremont, CA 94536",37.65
+663,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",14.3
+664,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",19.13
+665,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Hayward Station","699 'B' Street, Hayward, CA 94541",24.84
+666,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",19.46
+667,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",11.19
+668,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","MacArthur Station","555 40th Street, Oakland, CA 94609",8.8
+669,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",27.72
+670,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",14.69
+671,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",5.39
+672,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",23.65
+673,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Orinda Station","11 Camino Pablo, Orinda, CA 94563",13.82
+674,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",28.11
+675,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",24.33
+676,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Powell St. Station","899 Market Street, San Francisco, CA 94102",14.68
+677,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",2.21
+678,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Rockridge Station","5660 College Avenue, Oakland, CA 94618",10.52
+679,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",26.28
+680,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",27.19
+681,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",19.73
+682,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",28.51
+683,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",25.61
+684,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Union City Station","10 Union Square, Union City, CA 94587",31.89
+685,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",22.67
+686,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",33.17
+687,"El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530","West Oakland Station","1451 7th Street, Oakland, CA 94607",9.28
+688,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",9.14
+689,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",15.12
+690,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",8.61
+691,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",16.26
+692,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",4.73
+693,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",18.87
+694,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",21.07
+695,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",23.28
+696,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",13.83
+697,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",15.47
+698,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Colma Station","365 D Street, Colma, CA 94014",21.84
+699,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Concord Station","1451 Oakland Avenue, Concord, CA 94520",26.97
+700,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",20.91
+701,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",3.93
+702,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",33.24
+703,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",2.34
+704,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Embarcadero Station","298 Market Street, San Francisco, CA 94111",13.09
+705,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Fremont Station","2000 BART Way, Fremont, CA 94536",36.52
+706,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",13.18
+707,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",18.0
+708,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Hayward Station","699 'B' Street, Hayward, CA 94541",23.72
+709,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",18.34
+710,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",10.06
+711,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","MacArthur Station","555 40th Street, Oakland, CA 94609",7.67
+712,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",26.59
+713,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",13.56
+714,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",2.87
+715,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",25.91
+716,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Orinda Station","11 Camino Pablo, Orinda, CA 94563",14.63
+717,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",30.37
+718,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",23.21
+719,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Powell St. Station","899 Market Street, San Francisco, CA 94102",13.55
+720,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",4.62
+721,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Rockridge Station","5660 College Avenue, Oakland, CA 94618",9.4
+722,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",25.16
+723,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",26.06
+724,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",18.61
+725,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",27.38
+726,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",24.49
+727,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Union City Station","10 Union Square, Union City, CA 94587",30.76
+728,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",21.54
+729,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",32.05
+730,"El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530","West Oakland Station","1451 7th Street, Oakland, CA 94607",8.15
+731,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",10.32
+732,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",2.49
+733,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",9.79
+734,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",3.46
+735,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",10.22
+736,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",7.8
+737,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",22.25
+738,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",24.46
+739,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",1.18
+740,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",15.86
+741,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Colma Station","365 D Street, Colma, CA 94014",10.78
+742,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Concord Station","1451 Oakland Avenue, Concord, CA 94520",28.6
+743,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",9.84
+744,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",11.91
+745,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",34.42
+746,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",14.44
+747,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",13.13
+748,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Fremont Station","2000 BART Way, Fremont, CA 94536",36.91
+749,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",13.56
+750,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",6.94
+751,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Hayward Station","699 'B' Street, Hayward, CA 94541",24.42
+752,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",19.51
+753,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",11.24
+754,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","MacArthur Station","555 40th Street, Oakland, CA 94609",8.85
+755,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",15.3
+756,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",0.34
+757,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",11.42
+758,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",31.06
+759,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Orinda Station","11 Camino Pablo, Orinda, CA 94563",15.81
+760,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",35.54
+761,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",24.39
+762,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Powell St. Station","899 Market Street, San Francisco, CA 94102",0.74
+763,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",15.99
+764,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Rockridge Station","5660 College Avenue, Oakland, CA 94618",10.58
+765,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",13.87
+766,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",14.77
+767,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",18.99
+768,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",27.77
+769,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",12.75
+770,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Union City Station","10 Union Square, Union City, CA 94587",31.14
+771,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",22.72
+772,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",33.23
+773,"Embarcadero Station","298 Market Street, San Francisco, CA 94111","West Oakland Station","1451 7th Street, Oakland, CA 94607",8.69
+774,"Fremont Station","2000 BART Way, Fremont, CA 94536","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",27.12
+775,"Fremont Station","2000 BART Way, Fremont, CA 94536","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",38.91
+776,"Fremont Station","2000 BART Way, Fremont, CA 94536","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",28.15
+777,"Fremont Station","2000 BART Way, Fremont, CA 94536","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",40.05
+778,"Fremont Station","2000 BART Way, Fremont, CA 94536","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",31.06
+779,"Fremont Station","2000 BART Way, Fremont, CA 94536","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",43.44
+780,"Fremont Station","2000 BART Way, Fremont, CA 94536","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",16.46
+781,"Fremont Station","2000 BART Way, Fremont, CA 94536","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",19.34
+782,"Fremont Station","2000 BART Way, Fremont, CA 94536","Civic CenterUN Plaza Station","1150 Market Street, San Francisco, CA 94102",37.62
+783,"Fremont Station","2000 BART Way, Fremont, CA 94536","ColiseumOakland Airport Station","7200 San Leandro St., Oakland, CA 94621",21.69
+784,"Fremont Station","2000 BART Way, Fremont, CA 94536","Colma Station","365 D Street, Colma, CA 94014",40.55
+785,"Fremont Station","2000 BART Way, Fremont, CA 94536","Concord Station","1451 Oakland Avenue, Concord, CA 94520",40.1
+786,"Fremont Station","2000 BART Way, Fremont, CA 94536","Daly City Station","500 John Daly Blvd., Daly City, CA 94014",41.7
+787,"Fremont Station","2000 BART Way, Fremont, CA 94536","Downtown Berkeley Station","2160 Shattuck Avenue, Berkeley, CA 94704",32.24
+788,"Fremont Station","2000 BART Way, Fremont, CA 94536","DublinPleasanton Station","5801 Owens Dr., Pleasanton, CA 94588",18.68
+789,"Fremont Station","2000 BART Way, Fremont, CA 94536","El Cerrito del Norte Station","6400 Cutting Blvd., El Cerrito, CA 94530",37.72
+790,"Fremont Station","2000 BART Way, Fremont, CA 94536","El Cerrito Plaza Station","6699 Fairmount Avenue, El Cerrito, CA 94530",36.41
+791,"Fremont Station","2000 BART Way, Fremont, CA 94536","Embarcadero Station","298 Market Street, San Francisco, CA 94111",36.88
+792,"Fremont Station","2000 BART Way, Fremont, CA 94536","Fruitvale Station","3401 East 12th Street, Oakland, CA 94601",24.5
+793,"Fremont Station","2000 BART Way, Fremont, CA 94536","Glen Park Station","2901 Diamond Street, San Francisco, CA 94131",43.21
+794,"Fremont Station","2000 BART Way, Fremont, CA 94536","Hayward Station","699 'B' Street, Hayward, CA 94541",14.75
+795,"Fremont Station","2000 BART Way, Fremont, CA 94536","Lafayette Station","3601 Deer Hill Road, Lafayette, CA 94549",36.5
+796,"Fremont Station","2000 BART Way, Fremont, CA 94536","Lake Merritt Station","800 Madison Street, Oakland, CA 94607",26.64
+797,"Fremont Station","2000 BART Way, Fremont, CA 94536","MacArthur Station","555 40th Street, Oakland, CA 94609",29.4
+798,"Fremont Station","2000 BART Way, Fremont, CA 94536","Millbrae Station","200 North Rollins Road, Millbrae, CA 94030",31.66
+799,"Fremont Station","2000 BART Way, Fremont, CA 94536","Montgomery St. Station","598 Market Street, San Francisco, CA 94104",37.35
+800,"Fremont Station","2000 BART Way, Fremont, CA 94536","North Berkeley Station","1750 Sacramento Street, Berkeley, CA 94702",34.7
+801,"Fremont Station","2000 BART Way, Fremont, CA 94536","North ConcordMartinez Station","3700 Port Chicago Highway, Concord, CA 94520",42.56
+802,"Fremont Station","2000 BART Way, Fremont, CA 94536","Orinda Station","11 Camino Pablo, Orinda, CA 94563",36.15
+803,"Fremont Station","2000 BART Way, Fremont, CA 94536","PittsburgBay Point Station","1700 West Leland Road, Pittsburg, CA 94565",47.05
+804,"Fremont Station","2000 BART Way, Fremont, CA 94536","Pleasant HillContra Costa Centre Station","1365 Treat Blvd., Walnut Creek, CA 94597",35.89
+805,"Fremont Station","2000 BART Way, Fremont, CA 94536","Powell St. Station","899 Market Street, San Francisco, CA 94102",37.34
+806,"Fremont Station","2000 BART Way, Fremont, CA 94536","Richmond Station","1700 Nevin Avenue, Richmond, CA 94801",39.28
+807,"Fremont Station","2000 BART Way, Fremont, CA 94536","Rockridge Station","5660 College Avenue, Oakland, CA 94618",30.92
+808,"Fremont Station","2000 BART Way, Fremont, CA 94536","San Bruno Station","1151 Huntington Avenue, San Bruno, CA 94066",35.46
+809,"Fremont Station","2000 BART Way, Fremont, CA 94536","San Francisco Int'l Airport Station","International Terminal, Level 3, San Francisco Int'l Airport, CA 94128",36.07
+810,"Fremont Station","2000 BART Way, Fremont, CA 94536","San Leandro Station","1401 San Leandro Blvd., San Leandro, CA 94577",19.82
+811,"Fremont Station","2000 BART Way, Fremont, CA 94536","South Hayward Station","28601 Dixon Street, Hayward, CA 94544",8.6
+812,"Fremont Station","2000 BART Way, Fremont, CA 94536","South San Francisco Station","1333 Mission Road, South San Francisco, CA 94080",37.57
+813,"Fremont Station","2000 BART Way, Fremont, CA 94536","Union City Station","10 Union Square, Union City, CA 94587",4.54
+814,"Fremont Station","2000 BART Way, Fremont, CA 94536","Walnut Creek Station","200 Ygnacio Valley Road, Walnut Creek, CA 94596",34.21
+815,"Fremont Station","2000 BART Way, Fremont, CA 94536","West DublinPleasanton Station","6501 Golden Gate Drive, Dublin, CA 94568",18.94
+816,"Fremont Station","2000 BART Way, Fremont, CA 94536","West Oakland Station","1451 7th Street, Oakland, CA 94607",29.18
+817,"Fruitvale Station","3401 East 12th Street, Oakland, CA 94601","12th St. Oakland City Center Station","1245 Broadway, Oakland, CA 94612",3.93
+818,"Fruitvale Station","3401 East 12th Street, Oakland, CA 94601","16th St. Mission Station","2000 Mission Street, San Francisco, CA 94110",15.72
+819,"Fruitvale Station","3401 East 12th Street, Oakland, CA 94601","19th St. Oakland Station","1900 Broadway, Oakland, CA 94612",4.96
+820,"Fruitvale Station","3401 East 12th Street, Oakland, CA 94601","24th St. Mission Station","2800 Mission Street, San Francisco, CA 94110",16.86
+821,"Fruitvale Station","3401 East 12th Street, Oakland, CA 94601","Ashby Station","3100 Adeline Street, Berkeley, CA 94703",7.87
+822,"Fruitvale Station","3401 East 12th Street, Oakland, CA 94601","Balboa Park Station","401 Geneva Avenue, San Francisco, CA 94112",19.47
+823,"Fruitvale Station","3401 East 12th Street, Oakland, CA 94601","Bay Fair Station","15242 Hesperian Blvd., San Leandro, CA 94578",9.49
+824,"Fruitvale Station","3401 East 12th Street, Oakland, CA 94601","Castro Valley Station","3301 Norbridge Dr., Castro Valley, CA 94546",11.73

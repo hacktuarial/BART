@@ -1,0 +1,46 @@
+source,target,value
+Millbrae,SFIA,5.4
+Millbrae,San Bruno,4.79
+SFIA,San Bruno,4.06
+San Bruno,South SF, 3.43
+South SF,Colma,1.91 
+Colma,Daly City,1.91 
+Daly City,Balboa Park,1.74 
+Balboa Park,Glen Park,1.67 
+Glen Park,24th St.,1.83 
+24th St.,16th St.,0.89 
+16th St.,Civic Center,1.37 
+Civic Center,Powell,0.44
+Powell,Montgomery,0.41 
+Montgomery,Embarcadero,0.34 
+Embarcadero,West Oakland,9.065
+West Oakland,Lake Merritt,2.00
+West Oakland,12th St.,1.76
+Fremont,Union City,4.54 
+Union City,South Hayward,4.54 
+South Hayward,Hayward,3.37
+Hayward,Bay Fair,4.14 
+Bay Fair,San Leandro,3.32, Castro Valley,4.5 
+San Leandro,Coliseum,3.11 
+Coliseum,Fruitvale,2.2 
+Fruitvale,Lake Merritt,3.03 
+Lake Merritt,12th St.,0.66 
+Castro Valley,Bay Fair,4.5
+Castro Valley,West Dublin,9.25
+West Dublin,Dublin/Pleasanton,2.38 
+12th St.,19th St.,0.35 
+19th St.,MacArthur,1.92
+MacArthur,Ashby,1.87
+MacArthur,Rockridge,1.77 
+Ashby,Berkeley,1.67 
+Berkeley,North Berkeley,1.13
+North Berkeley,El Cerrito Plaza,3.38 
+El Cerrito Plaza,El Cerrito del Norte,2.34 
+El Cerrito del Norte,Richmond,2.21 
+Rockridge,Orinda,5.35 
+Orinda,Lafayette,4.51 
+Lafayette,Walnut Creek,3.92 
+Walnut Creek,Pleasant Hill,2.35 
+Pleasant Hill,Concord,4.85 
+Concord,North Concord,2.83 
+North Concord,Pittsburg/Bay Pt,5.67 
