@@ -14,52 +14,42 @@ Fare = \$1.55 + \$0.108 x Miles Traveled + Following Surcharges:
 How did I figure this out?
 
 For distance, I used Python to calculate Euclidean distance ("as the crow flies") between stations using [Vincenty distance](http://en.wikipedia.org/wiki/Vincenty%27s_formulae) in the $geopy$ package. Each station's latitude and longitude is available from [BART's website](http://www.bart.gov/schedules/developers/gtfs). The fares are also available there. I merge these together, calculate some dummy variables, and use linear regression to get the above formula.
-* Read in data.  
+* Read in data, and load required packages. 
 ```{r}
+library(dplyr)
+library(magrittr)
+library(ggplot2)
 setwd('/Users/timothysweetser/Box Sync/BART Project')
-library(sqldf)
-distance <- read.csv("data/bart/Euclidean miles.csv")
-fare_attributes <- read.csv("google_transit_2/fare_attributes.txt")
-fare_rules <- read.csv("google_transit_2/fare_rules.txt")
-stops <- read.csv("google_transit_2/stops.txt")
+distance <- read.csv("data/bart/Euclidean miles.csv", colClasses=c('character', 'numeric', 'numeric', 'character'))
+fare_attributes <- read.csv("google_transit_2/fare_attributes.txt", colClasses=c('character', 'numeric', 'character', 'character', 'character', 'character', 'character'))
+fare_rules <- read.csv("google_transit_2/fare_rules.txt", colClasses=rep('character', 5))
+stops <- read.csv("google_transit_2/stops.txt", colClasses=c('character', 'character', 'character', 'numeric', 'numeric', 'character', 'character'))
 min.fare <- min(fare_attributes$price)
 ```
 
 For the transbay dummy variable, we will need to know which side of the San Francisco Bay each station is on. I know that Richmond is the western-most station in the East Bay, and Embarcadero is the eastern-most station in the West Bay. Therefore, the midpoint of their longitudes will be the dividing line. 
 ```{r}
 bay.line <- mean(stops[stops$stop_id %in% c("RICH", "EMBR"), 'stop_lon'])
-stops$bayside <- with(stops, ifelse(stop_lon < bay.line, "W", "E"))
+stops %<>% mutate(., bayside = ifelse(stop_lon < bay.line, "W", "E"))
 ```
 
 Now let's work on fares; I will merge attributes and rules together, then add a transbay indicator.
 ```{r}
-fares <- merge(fare_attributes, fare_rules, by = "fare_id")
-fares <- sqldf("select f.*, s.bayside AS orig_bayside FROM fares f, stops s WHERE f.origin_id = s.stop_id")
-fares <- sqldf("select f.*, s.bayside AS dest_bayside FROM fares f, stops s WHERE f.destination_id = s.stop_id")
-fares$TransBay <- as.numeric(fares$orig_bayside != fares$dest_bayside)
-data <- sqldf("SELECT x.*, y.price, y.TransBay FROM distance x, fares y WHERE x.Orig = y.origin_id AND x.Dest = y.destination_id")
-# export to CSV for further visualization
-<<<<<<< HEAD
-#write.csv(data, 'data/BART/crow flies distance.csv', row.names=F)
-#x <- data %>% mutate(., EuclidMiles = round(EuclidMiles, 2)) %>% dplyr::select(., -Miles2) %>% t
-#for(i in 1:nrow(x)) {
-#  for(j in 1:ncol(x)) {
-#    x[i, j] <- paste("'", rownames(x)[i], "':", ifelse(i <= 2, "'", ""), str_trim(x[i, j]),
-#                     ifelse(i <= 2, "'", ""), ",", sep="")
-#  }
-#}
-#x[1, ] <- paste("{", x[1, ], sep="")
-#x[7, ] %<>% str_replace(., fixed(","), "},")
-#write.table(t(x), 'data/BART/crow flies distance json.txt', row.names=F, col.names=F, quote=F)
-=======
+fares <- inner_join(fare_attributes, fare_rules, by = "fare_id")
+fares <- stops %>% select(., stop_id, bayside) %>% rename(., bayside_orig = bayside) %>% inner_join(fares, ., by=c("origin_id"="stop_id")) 
+fares <- stops %>% select(., stop_id, bayside) %>% rename(., bayside_dest = bayside) %>% inner_join(fares, ., by=c("destination_id"="stop_id")) 
+
+fares %<>% mutate(., TransBay = as.numeric(bayside_orig != bayside_dest))
+
+data <- merge(distance, fares %>% select(., price, TransBay, origin_id, destination_id), by.x=c('Orig', 'Dest'), by.y=c('origin_id', 'destination_id'))
+# export for further visualization
 write.csv(data, 'data/BART/crow flies distance.csv', row.names=F)
-write.table(toJSON(as.list(data)), 'data/BART/crow flies distance json.txt')
->>>>>>> c1d5f62f8e82a88d98e03a81f5a4b3509c9c3cbc
+source("export_to_json.R")
 ```
 
 Remove trips starting and beginning at the same station, and only keep the variables we need. We can also remove symmetric trips, since for each pair of stations, the distance and fare are the same whichever direction you travel in.
 ```{r}
-data <- data[data$Orig != data$Dest, c('Dest', 'Orig', 'EuclidMiles', 'price', 'TransBay')]
+data %<>% filter(., Orig != Dest) %>% select(Dest, Orig, EuclidMiles, price, TransBay)
 keepers <- NULL
 for (i in 1: nrow(data)) {
   sister.row <- intersect(which(data$Dest == data$Orig[i]),
@@ -71,12 +61,19 @@ data <- data[unique(keepers), ]
 
 Create dummy variables for San Francisco Airport and San Mateo County.
 ```{r}
-data$Airport <- as.numeric(data$Orig == 'SFIA' | data$Dest == 'SFIA')
 SanMateo <- c('DALY', 'COLM', 'SSAN', 'SBRN', 'MLBR')
-data$SanMateo <- as.numeric(data$Dest %in% SanMateo | data$Orig %in% SanMateo)
+data %<>% mutate(., Airport = as.numeric(Orig == 'SFIA' | Dest == 'SFIA'),
+                    SanMateo = as.numeric(Dest %in% SanMateo | Orig %in% SanMateo))
 ```
 
 Plot the data.
+```{r}
+# color palette from http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/
+cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+ggplot(data, aes(x=EuclidMiles, y=price, color=factor(TransBay))) + geom_point(aes(shape=factor(Airport))) + 
+  scale_color_manual(values=cbPalette[2:3])
+```
+
 ```{r}
 # use masks to color-code trips
 transbay.mask <- data$TransBay == 1 
