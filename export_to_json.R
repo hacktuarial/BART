@@ -9,3 +9,4 @@ for(i in 1:nrow(x)) {
 x[1, ] <- paste("{", x[1, ], sep="")
 x[nrow(x), ] %<>% str_replace(., fixed(","), "},")
 write.table(t(x), 'data/BART/crow flies distance json.txt', row.names=F, col.names=F, quote=F)
+rm(x)
