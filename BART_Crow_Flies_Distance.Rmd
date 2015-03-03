@@ -1,7 +1,7 @@
 ---
 title: "BART Fare Analysis"
 author: "Timothy Sweetser https://twitter.com/hacktuarial"
-date: "January 7, 2015"
+date: "March 3, 2015"
 output: html_document
 ---
 https://bart-fares.herokuapp.com/  
